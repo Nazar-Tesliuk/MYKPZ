@@ -1,0 +1,14 @@
+-- Start --
+
+client:ask:
+server:rdy:
+client:start:
+    [Ящик зброї №1]:
+    ...
+    [Ящик зброї №N]:
+    ...
+
+
+-- End -- 
+client:stop:
+server:end:
